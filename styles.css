@@ -1,0 +1,25 @@
+.navbar {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color:white;
+    padding: 0 13px;
+}
+.nav-selected {
+    font-family: Inter, sans-serif;
+    justify-content: center;
+    align-self: stretch;
+    background-color: #003f88;
+    color: #fff;
+    text-align: center;
+    padding: 23px 20px;
+}
+
+.nav-option {
+    font-family: Inter, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+}
